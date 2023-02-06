@@ -119,6 +119,10 @@ body {
     color: var(--color-NavyBlue);
 }
 
+.section-1 .text {
+    line-height: 1.5;
+}
+
 .section-2-title {
     font-size: 36px;
     line-height: 1.11;
@@ -146,6 +150,10 @@ body {
     color: var(--color-NavyBlue);
 }
 
+.section-3 .team-member-description {
+    line-height: 1.5;
+}
+
 .footer {
     background-color: var(--color-NavyBlue);
 }
@@ -166,6 +174,7 @@ body {
 }
 
 .footer .text {
+    line-height: 1.5;
     color: var(--color-Cornflower);
 }
 
@@ -186,6 +195,10 @@ body {
     font-size: 20px;
     line-height: 1.2;
     color: var(--color-NavyBlue);
+}
+
+.verity {
+    line-height: 1.5;
 }
 
 .button:hover {
